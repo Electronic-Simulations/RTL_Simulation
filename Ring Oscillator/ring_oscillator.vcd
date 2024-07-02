@@ -1,0 +1,84 @@
+$date
+	Tue Jul 02 14:07:46 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_ring_oscillator $end
+$var wire 1 ! osc_out $end
+$scope module uut $end
+$var wire 1 ! osc_out $end
+$var real 1 " delay $end
+$var reg 1 # n1 $end
+$var reg 1 $ n2 $end
+$var reg 1 % n3 $end
+$var reg 1 & n4 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+r10.4167 "
+$end
+#0
+$dumpvars
+x&
+x%
+x$
+0#
+x!
+$end
+#10417
+1$
+#20834
+0%
+#31251
+1#
+1!
+1&
+#41668
+0$
+#52085
+1%
+#62502
+0#
+0!
+0&
+#72919
+1$
+#83336
+0%
+#93753
+1#
+1!
+1&
+#104170
+0$
+#114587
+1%
+#125004
+0#
+0!
+0&
+#135421
+1$
+#145838
+0%
+#156255
+1#
+1!
+1&
+#166672
+0$
+#177089
+1%
+#187506
+0#
+0!
+0&
+#197923
+1$
+#200000
